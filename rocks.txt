@@ -1,0 +1,4 @@
+Basalt: 5
+Shale: 43
+Sandstone: 0
+Conglomerate: 52
